@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goodone/static/css/main.f7b19b5b.css",
+    "main.js": "/goodone/static/js/main.ac042224.js",
+    "static/js/787.28cb0dcd.chunk.js": "/goodone/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/goodone/index.html",
+    "main.f7b19b5b.css.map": "/goodone/static/css/main.f7b19b5b.css.map",
+    "main.ac042224.js.map": "/goodone/static/js/main.ac042224.js.map",
+    "787.28cb0dcd.chunk.js.map": "/goodone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b19b5b.css",
+    "static/js/main.ac042224.js"
+  ]
+}
